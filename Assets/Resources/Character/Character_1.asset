@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 835afb55345b4c74c9924e7053d0936d, type: 3}
+  m_Name: Character_1
+  m_EditorClassIdentifier: 
+  _localisableName:
+    _isLocalised: 0
+    _data: Basic
+  _localisableDescription:
+    _isLocalised: 0
+    _data: Niceu Ballu!
+  _startUnlocked: 1
+  _unlockWithCoins: 1
+  _unlockWithPayment: 1
+  _unlockWithCompletion: 0
+  _valueToUnlock: -1
+  _localisablePrefabs:
+  - LocalisablePrefabType: 2
+    Name: 
+    LocalisablePrefab:
+      _default: {fileID: 1477424284056706, guid: c0e04703f71d38f44a91882b6f8e47af,
+        type: 2}
+      _localisedObjects: []
+  _localisableSprites:
+  - LocalisableSpriteType: 1
+    Name: 
+    LocalisableSprite:
+      _default: {fileID: 21300000, guid: 06fa507de15b11e49be2406f241593e8, type: 3}
+      _localisedObjects: []
+  _variables:
+    _boolVariables: []
+    _intVariables: []
+    _floatVariables: []
+    _stringVariables: []

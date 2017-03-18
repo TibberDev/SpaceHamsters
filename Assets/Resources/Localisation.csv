@@ -1,0 +1,9 @@
+KEY,English,Norwegian
+Settings.Button,Settings,Trykk Meg
+L1.Name,Levelll 1,Bane 1
+L1.Desc,-,-
+L2.Name,Level 2,Bane 2
+L2.Desc,-,-
+Game.TotalCoins,Coins:{0},Penger:{0}
+Game.TotalScore,Score:{0},Penger:{0}
+Game.SessionCoins,Coins:{0},Penger:{0}
